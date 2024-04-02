@@ -1,19 +1,28 @@
 ## Hi there, I'm Danil  👋
 
-### Frontend React Developer (React/Redux/TS)
----
+I'm a 23-year-old Frontend developer with 4 years + of development experience. 
 
-<!--
-**MypyMypy/MypyMypy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Checkout my [Resume](https://mypymypy.notion.site/a72e5d09d9c2447d902ee9897f14bef1?pvs=74) to learn more about me
+* Explore my [Website](https://mypymypy.github.io) with my pet projects
+* Check out my [Vacancy](https://spb.hh.ru/resume/264a11e1ff0c15fc110039ed1f72676e384165) on hh.ru
 
-Here are some ideas to get you started:
+### :computer: Skill Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Basement:** `React`, `Redux | RTK`, `TypeScript`, `ES6+`;
+
+**Stylying:** `SCSS`, `CSS-modules`, `Styled Components`;
+
+**Build Tools:** `Vite`, `Webpack`, `Gulp`;
+
+**Version Control:** `Git`: `GitLab` | `GitHub`;
+
+**Linters**: `Eslint`, `Prettier`, `EditorConfig`;
+
+**Others**: `Vitest`, `Figma`, `Python`, `SQL`; 
+
+### :mailbox_with_mail: Contacts
+
+Write me! I am always open to discuss partnership opportunities:
+
+* [iCloud Mail](danich282@icloud.com)
+* [Telegram](https://t.me/@d_bogdanchikov)
